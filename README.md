@@ -2,7 +2,7 @@
 Projeto em powershell para medir jitter de conexão, focado em cenários de ligações voip
 
 Uma observação:
-Como trabalho com sistemas VOIP geralmente utilizo para verificar o jitter com a operadora de telefonia neste caso o trecho abaixo, remete a um retorno
+Como trabalho com sistemas VOIP geralmente utilizo para verificar o jitter com a operadora de telefonia. Neste caso o trecho abaixo, remete a um retorno
 Que esperamos como bom entre o servidor de discagem e a operadora.
 Por padrão o Jitter tolerável é de 30ms, porém em algumas situações pode ser até 50ms.
 Já na perda de pacotes acima de 1% já pode-se considerar falhas.
